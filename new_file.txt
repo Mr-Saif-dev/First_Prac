@@ -1,5 +1,11 @@
 <html>
+<style>
+.{
+align:right
+}
+</style>
 <body>
  <div></div>
 </body>
 </html>
+
